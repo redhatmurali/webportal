@@ -9,3 +9,8 @@ sudo bash install-grafana.sh -p 3001 -v 12.2.0 -y
 sudo ./install-openobserve.sh --version 0.14.7 --port 5080
 
 sudo ./install-keycloak.sh --version 26.0.7 --port 8080
+
+sudo ./install-semaphore.sh --version 2.10.35 --port 3000
+
+sudo ./install-n8n.sh --version 1.76.1 --port 5678
+
