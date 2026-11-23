@@ -1,3 +1,46 @@
+# Web Portal – Installation Toolkit
+
+Download all installation scripts from GitHub.
+
+### Option 1: Clone using Git (Recommended)
+
+```bash
+sudo apt update
+sudo apt install git -y
+
+git clone https://github.com/redhatmurali/webportal.git
+
+cd webportal
+```
+
+### Option 2: Download ZIP
+
+```bash
+wget https://github.com/redhatmurali/webportal/archive/refs/heads/main.zip -O webportal.zip
+
+sudo apt install unzip -y
+
+unzip webportal.zip
+
+cd webportal-main
+```
+
+### Option 3: Make all scripts executable
+
+```bash
+chmod +x *.sh
+```
+
+### Start Installation
+
+Follow the installation phases below in the recommended order.
+
+All installation scripts are available in this repository.
+
+GitHub Repository:
+https://github.com/redhatmurali/webportal
+
+
 # Server Installation Toolkit
 
 Production-ready installation scripts for deploying a complete server infrastructure.
