@@ -147,8 +147,3 @@ sudo env WEB_PORT=9090 bash install-mail-simple.sh
 - Secure all default credentials immediately after installation.
 - Verify each application before proceeding to the next phase.
 
-## Repository
-
-**Netaport Server Installation Toolkit**
-
-Automated installation scripts for VoIP, monitoring, automation, identity management, helpdesk, project management and business infrastructure.
