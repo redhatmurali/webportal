@@ -1,4 +1,4 @@
-# Netaport Server Installation Toolkit
+# Server Installation Toolkit
 
 Production-ready installation scripts for deploying a complete server infrastructure.
 
